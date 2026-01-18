@@ -2,6 +2,8 @@
 
 Room-based camera with smooth transitions for LÖVE.
 
+![Demo](assets/demo.gif)
+
 ## Features
 
 - Smooth camera panning between rooms
